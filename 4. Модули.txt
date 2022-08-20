@@ -1,4 +1,4 @@
-В основном файле
+В основном файле!!!
 from mymodule import*
 aaa()
 bbb()
